@@ -75,23 +75,36 @@ a:hover {
 }
 
 html {
-  background: #0f172a;
+  background: #0f172a !important;
 }
 
 body {
-  background: #0f172a;
+  background: #0f172a !important;
   color: #e5e7eb;
+}
+
+table,
+tbody,
+tr,
+td,
+th {
+  background-color: #0f172a;
 }
 
 body,
 td,
 th,
 tr,
-p,
-a {
+p {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   color: #e5e7eb;
+}
+
+a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #7dd3fc;
 }
 
 strong {
