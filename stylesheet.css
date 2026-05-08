@@ -153,6 +153,7 @@ h2 {
   display: block;
   object-fit: cover;
   object-position: center;
+  transform: scale(1.4);
 }
 
 @media (max-width: 640px) {
@@ -179,6 +180,10 @@ h2 {
 
   .profile-link {
     max-width: 220px;
+  }
+
+  .profile-photo {
+    transform: none;
   }
 
   .name {
