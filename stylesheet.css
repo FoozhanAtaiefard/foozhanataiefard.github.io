@@ -176,14 +176,19 @@ h2 {
 
   .intro-photo {
     padding: 8px 18px 24px !important;
+    text-align: center;
   }
 
   .profile-link {
+    width: 220px;
     max-width: 220px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .profile-photo {
-    transform: none;
+    transform: scale(1.25);
+    transform-origin: center center;
   }
 
   .name {
