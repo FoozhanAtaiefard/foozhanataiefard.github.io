@@ -1,6 +1,6 @@
 # Foozhan Ataiefard
 
-Foozhan Ataiefard is a senior research engineer working on VLM and LLM efficiency, diffusion-based rendering, world models, efficient AI systems, model architecture design, and reinforcement learning.
+Foozhan Ataiefard is a senior AI researcher working on VLM, GenAI, image and video generation, model optimization, foundation models, post-training, long-context modeling, VLM and LLM efficiency, diffusion-based rendering, model architecture design, and reinforcement learning.
 
 Foozhan currently works at NVIDIA as a DevTech Engineer.
 
