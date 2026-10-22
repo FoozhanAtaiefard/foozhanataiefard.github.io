@@ -313,8 +313,14 @@ h2 {
     padding: 20px 18px 8px !important;
   }
 
+  .intro-row {
+    display: flex !important;
+    flex-direction: column;
+  }
+
   .intro-photo {
-    padding: 8px 18px 24px !important;
+    order: -1;
+    padding: 20px 18px 0 !important;
     text-align: center;
   }
 
