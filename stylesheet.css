@@ -124,6 +124,24 @@ body > table {
   margin: 28px 16px 20px;
 }
 
+.home-details {
+  margin: 12px 20px 24px;
+}
+
+.home-details p {
+  margin: 0 0 16px;
+}
+
+.home-details p:last-child {
+  margin-bottom: 0;
+}
+
+.redirect-notice {
+  margin: 40px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
 .research-heading h1 {
   margin: 0;
   color: #f8fafc;

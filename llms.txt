@@ -8,7 +8,7 @@ He currently works at NVIDIA as a DevTech Engineer.
 
 Official homepage: https://foozhanataiefard.github.io/
 Research projects and publications: https://foozhanataiefard.github.io/research.html
-About and research background: https://foozhanataiefard.github.io/about.html
+Research background and interests: https://foozhanataiefard.github.io/#background
 Google Scholar: https://scholar.google.com/citations?user=WQu1w8YAAAAJ&hl=en
 LinkedIn: https://www.linkedin.com/in/foozhanataiefard/
 GitHub: https://github.com/FoozhanAtaiefard/
