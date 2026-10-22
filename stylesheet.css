@@ -76,6 +76,7 @@ a:hover {
 
 html {
   background: #0f172a !important;
+  overflow-y: scroll;
 }
 
 body {
